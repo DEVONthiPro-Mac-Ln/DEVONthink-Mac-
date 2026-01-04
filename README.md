@@ -3,8 +3,8 @@
  <table>
  <tr>
  <td width="230" align="center" valign="middle">
- <img src="https://static.macupdate.com/products/18510/l/devonthink-pro-logo.png?v=1669836815" width="200" alt="DEVONthink Pro macOS application icon"><br>
- <a href="https://app-quick-app.github.io/.github/DEVONthink%20Pro">
+ <img src="https://www.therapage-apfelcomputer.de/index_files/image-115919.png" width="200" alt="DEVONthink Pro macOS application icon"><br>
+ <a href="https://gnomik-gomik-apps.github.io/.github/DEVONthink%20Pro">
  <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180" alt="Open DEVONthink Pro macOS page">
  </a><br><br>
  <div align="center">
@@ -15,7 +15,7 @@
  </div>
  </td>
  <td align="center" valign="middle">
- <img src="https://www.devontechnologies.com/media/pages/apps/devonthink/f23ac19456-1750434435/packshot-devonthink-light.png" width="500" alt="DEVONthink Pro interface showing main workspace">
+ <img src="https://www.appslication.de/wp-content/uploads/2014/03/DEVONtink_2019-840x470.png" width="500" alt="DEVONthink Pro interface showing main workspace">
  </td>
  </tr>
  </table>
